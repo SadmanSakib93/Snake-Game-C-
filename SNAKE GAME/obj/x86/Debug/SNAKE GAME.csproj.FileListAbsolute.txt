@@ -1,0 +1,10 @@
+E:\STUDY\3.2\LAB\SD\Projects\SNAKE GAME\SNAKE GAME\bin\Debug\SNAKE GAME.exe
+E:\STUDY\3.2\LAB\SD\Projects\SNAKE GAME\SNAKE GAME\bin\Debug\SNAKE GAME.pdb
+E:\STUDY\3.2\LAB\SD\Projects\SNAKE GAME\SNAKE GAME\obj\x86\Debug\SNAKE_GAME.Menu.resources
+E:\STUDY\3.2\LAB\SD\Projects\SNAKE GAME\SNAKE GAME\obj\x86\Debug\SNAKE_GAME.NewGame.resources
+E:\STUDY\3.2\LAB\SD\Projects\SNAKE GAME\SNAKE GAME\obj\x86\Debug\SNAKE_GAME.Properties.Resources.resources
+E:\STUDY\3.2\LAB\SD\Projects\SNAKE GAME\SNAKE GAME\obj\x86\Debug\SNAKE GAME.csproj.GenerateResource.Cache
+E:\STUDY\3.2\LAB\SD\Projects\SNAKE GAME\SNAKE GAME\obj\x86\Debug\SNAKE GAME.exe
+E:\STUDY\3.2\LAB\SD\Projects\SNAKE GAME\SNAKE GAME\obj\x86\Debug\SNAKE GAME.pdb
+E:\STUDY\3.2\LAB\SD\Projects\SNAKE GAME\SNAKE GAME\obj\x86\Debug\SNAKE GAME.csprojResolveAssemblyReference.cache
+E:\STUDY\3.2\LAB\SD\Projects\SNAKE GAME\SNAKE GAME\obj\x86\Debug\SNAKE_GAME.Game.resources
